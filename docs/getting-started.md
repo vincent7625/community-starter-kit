@@ -35,4 +35,4 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+Welcome to my project. If you want to help me, you are at the right place. I'm very happy to meet you.
