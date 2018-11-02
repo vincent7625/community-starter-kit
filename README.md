@@ -1,10 +1,15 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+My project is to realize a new system to keep in mind when the sun shines et when it rains.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+Features
+- Add an event in your calendar
+- Indicate weather
+- Indicate your mood
+- Share your event with people you like
+- Retrieve an event by date
 
 ## Getting started
 
